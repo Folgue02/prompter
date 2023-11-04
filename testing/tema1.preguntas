@@ -1,0 +1,200 @@
+En que etapa comenzo la evolucion del ERP?
+ @2nda guerra mundial
+ 1960, Con el nacimiento oficial del ERP
+ 1970-80, donde tambien se crea el MRP2
+ 1990, decada en la que el MRP y ERP ya puede controlar inventarios y gestiones administrativas
+
+Cuando se desarrollo el MRP?
+ 2nda guerra mundial
+ 1960, Con el nacimiento oficial del ERP
+ @1970-80, donde tambien se crea el MRP2
+ 1990, decada en la que el MRP y ERP ya puede controlar inventarios y gestiones administrativas
+
+Tienen los ERPs una base centralizada?
+ @Si, para permitir reutilizacion, y son relacionales
+ No, tiene una distribuida para mejor acceso a datos
+
+Que sistema operativo es mas comun para el cliente de un ERP?
+ @Windows
+ Linux
+ Mac
+
+Que sistema operativo es mas comun para el servidor de un ERP?
+ Windows
+ @Linux, ya que es mas comun en el mundo de los servidores
+ Mac
+
+Es verdad que el lenguaje de programacion en el que este escrito el ERP puede condicionar su uso?
+ @Si
+ Solo si es JavaScript
+ No
+
+Los ERPs se caracterizan por (elige la mas correcta):
+ Facil acceso posibilidad de ser multiplataforma ademas de su modularidad
+ Modularidad, economia y facilidad
+ @Integracion, modularidad y adaptabilidad
+
+Es la eliminacion de redundancia de informacion una ventaja de los ERPs?
+ @Si
+ No
+
+Cual no es una ventaja de los ERPs?
+ Adaptabilidad a las necesidades del usuario
+ Consistencia de datos y acceso a la hora de tomar decisiones?
+ Actualizacion de la informacion a tiempo real
+ @Ahorro y la facil adopcion por los usuarios
+ Eficiencia empresarial
+ Control de la actividad empresarial
+ Integracion de todos los elementos (internos y externos)
+
+Existe la desventaja de que cuando la estructura empresarial cambie el ERP requiere ser modificado?
+ @Si
+ No
+
+El ERP es costoso en cuanto dinero, no en cuento tiempo
+ Si, ya que este puede ser instalado por otros
+ @No, ya que tambien toma tiempo hacer la instalacion
+
+Son los ERPs costosos tanto en tiempo como en dinero?
+ @Si
+ No
+ Si en dinero, pero no en tiempo
+
+Tipos de ERPs segun diseno
+ ERP generico, cliente/servidor, a medida
+ ERP predefinido, generico, por demanda
+ @ERP generico, predefinido, a medida
+ ERP generico, a medida, por demanda
+
+Tipos de ERPs segun su instalacion
+ @Local y en la nube
+ Local, distribuido y en la nube
+
+Tipos de ERPs segun solucion
+ Vertical (para todas los tipos de empresas) y horizontal (para un tipo de empresa especifico)
+ @Horizontal (para todos los tipos de empresas) y vertical (para un tipo de empresa especifico)
+
+Tipos de ERPs segun tipo de software
+ @Codigo abierto y privado/propietario
+ Codigo abierto, permisivo y propietario
+
+SAP fue creado en los 70s en Alemania y tiene multiples soluciones
+ @Si
+ No
+
+SAP Business One es para:
+ Empresas grandes
+ @Empresas pequenas
+ Empresas medianas
+
+SAP Business Suite incorpora productos basicos especificos para un determinado sector de la empresa
+ @Si
+ No
+
+SAP All-In-One es una solucion muy completa
+ No
+ @Si
+
+Oracle (JD Edwards Enterprise One) permite soluciones individuales?
+ @Si
+ No
+
+Cuando fue creado Microsoft Dynamics?
+ @2001
+ 2005
+ 2007
+
+Odoo se llamaba OpenERP originalmente
+ @Verdad
+ Falso
+
+Fue Odoo creado para ser una alternativa a SAP?
+ @Si
+ No
+
+Cual es el ERP con mas modulos?
+ SAP
+ @Odoo
+ Microsoft Dynamics
+ OpenBravo
+ Holdr
+
+Es SAP ByDesign utilizado para aplicaciones web?
+ @Si
+ No
+ No se
+
+
+
+SAP esta escrito en C, C++ y Java
+ Verdad
+ @Falso
+
+En que esta escrito Oracle JD Edward Enterprise?
+ Java, C# y Python
+ Java, Python
+ C y C++
+ @C, C++ y Java
+
+Que lenguaje no utiliza Microsoft Dynamics?
+ C++
+ C/Al
+ @C#
+ Visual Basic
+
+En que lenguaje de programacion esta escrito OpenBravo?
+ JavaScript
+ @Java
+ C#
+ Python
+ Ruby
+ Visual Basic
+
+Que base de datos utiliza OpenBravo?
+ MySQL
+ Oracle
+ @Oracle y PostgreSQL
+ Oracle, MySQL o MariaDB
+
+El significado de las siglas CRM es...
+ @Customer Relationships Management
+ Customer Relations Manager
+ Client's Relationship Management
+
+Que tipos de caracteristicas de CRM existen?
+ Operacional y computacion analitica
+ @Logica operacional y logica analitica
+ Logica y analitica
+ Logica y operacional
+
+Cual es el objetivo de la logica analitica?
+ @Poder analizar informacion con la que entender el estado de la empresa y modificar las estrategias usadas.
+ Poder entender al cliente y gestionar mejor el soporte
+ Automatizar las ventas gracias al mejor comprendimiento de la informacion analizada, lo cual permite eventualmente cambiar las estrategias utilizadas
+
+Para que se utiliza el CRM de tipo de acceso 'On premise'?
+ Para empresas pequenas con poca informacion
+ @Para empresas grandes con mucha informacion
+ Cualquier tipo de empresa es adecuado
+
+Para que se utiliza el CRM de tipo de gestion 'analitico'?
+ @Para el analisis de los datos, motivaciones de compras, mayor satisfaccion y retencion de clientes
+ Para comunicarte con el cliente y analizar el feedback del mismo
+
+Que tipos de CRM segun acceso hay?
+ On premise (empleado en grandes empresas para mucha informacion), On demand (mas economico que el 'On premise' y personalizable como un open source) y exclusivo (no se accede desde el mismo ERP)
+ Integrados (se accede atraves del ERP, como SAP, Oracle y Microsoft) y en la nube (enfocados a personalizacion y adaptabilidad)
+ @On premise (empleado en grandes empresas), nube (enfocado a personalizacion y adaptabilidad) y On demand (personalizacion como un open source y mas economico que 'On premise', bueno para empresas pequenas)
+
+Estan los CRMs exclusivos desapareciendo?
+ @Si, ya que no se integran bien
+ No, ya que permiten mayor modularidad
+
+Tipos de CRM segun gestion?
+ @Operativo, analitico (analisis de datos para mayor motivacion de compras, satisfaccion y retencion) y colaborativo (mas comunicacion)
+ On premise (empleado en grandes empresas para mucha informacion), On demand (mas economico que el 'On premise' y personalizable como un open source) y exclusivo (no se accede desde el mismo ERP)
+
+Tipos de CRM en la actualidad:
+ En la nube y cliente/servidor
+ @Integrados en ERP y exclusivos (desapareciendo)
+

@@ -1,0 +1,23 @@
+name: prompter
+version: 0.1.0
+
+authors:
+  - name <email@example.com>
+
+targets:
+  prompter:
+    main: src/main.cr
+
+# description: |
+#   Short description of prompter
+
+# dependencies:
+#   pg:
+#     github: will/crystal-pg
+#     version: "~> 0.5"
+
+# development_dependencies:
+#   webmock:
+#     github: manastech/webmock.cr
+
+# license: MIT
